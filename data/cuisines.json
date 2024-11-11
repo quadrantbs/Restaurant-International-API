@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Sushi",
+    "description": "Hidangan tradisional Jepang dengan nasi yang diberi cuka, seafood, dan sayuran.",
+    "price": 150000,
+    "imgUrl": "https://example.com/sushi.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Pizza",
+    "description": "Hidangan Italia berupa dasar adonan bulat yang dipanggang dengan topping saus tomat dan keju.",
+    "price": 120000,
+    "imgUrl": "https://example.com/pizza.jpg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Burger",
+    "description": "Sandwich klasik Amerika yang dibuat dengan daging sapi cincang, selada, tomat, dan keju.",
+    "price": 100000,
+    "imgUrl": "https://example.com/burger.jpg",
+    "categoryId": 3,
+    "authorId": 1
+  },
+  {
+    "name": "Falafel",
+    "description": "Bola-bola goreng dari kacang arab yang dihaluskan, rempah-rempah, dan bumbu-bumbu, populer di Timur Tengah.",
+    "price": 90000,
+    "imgUrl": "https://example.com/falafel.jpg",
+    "categoryId": 4,
+    "authorId": 1
+  },
+  {
+    "name": "Jollof Rice",
+    "description": "Hidangan populer dari Afrika Barat yang terbuat dari nasi, tomat, bawang, dan rempah-rempah.",
+    "price": 95000,
+    "imgUrl": "https://example.com/jollof-rice.jpg",
+    "categoryId": 5,
+    "authorId": 1
+  },
+  {
+    "name": "Pad Thai",
+    "description": "Hidangan mi goreng Thailand dengan telur, tahu, udang, kacang, dan tauge.",
+    "price": 110000,
+    "imgUrl": "https://example.com/pad-thai.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Pasta Carbonara",
+    "description": "Hidangan pasta Italia yang dibuat dengan telur, keju, pancetta, dan lada.",
+    "price": 140000,
+    "imgUrl": "https://example.com/carbonara.jpg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Tacos",
+    "description": "Hidangan Meksiko yang terbuat dari tortilla yang dilipat atau digulung dan diisi dengan berbagai campuran seperti daging berbumbu, kacang, dan keju.",
+    "price": 80000,
+    "imgUrl": "https://example.com/tacos.jpg",
+    "categoryId": 3,
+    "authorId": 1
+  },
+  {
+    "name": "Shawarma",
+    "description": "Hidangan Timur Tengah berupa daging yang dipotong tipis, ditumpuk dalam bentuk kerucut, dan dipanggang pada alat pemanggang vertikal yang berputar perlahan.",
+    "price": 95000,
+    "imgUrl": "https://example.com/shawarma.jpg",
+    "categoryId": 4,
+    "authorId": 1
+  },
+  {
+    "name": "Couscous",
+    "description": "Hidangan dari Afrika Utara berupa semolina yang dikukus dan disajikan dengan rebusan.",
+    "price": 85000,
+    "imgUrl": "https://example.com/couscous.jpg",
+    "categoryId": 5,
+    "authorId": 1
+  },
+  {
+    "name": "Dim Sum",
+    "description": "Masakan Cina yang terdiri dari porsi kecil yang disajikan dalam keranjang kukus kecil atau di piring kecil.",
+    "price": 135000,
+    "imgUrl": "https://example.com/dim-sum.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Paella",
+    "description": "Hidangan nasi khas Spanyol yang berasal dari Valencia, dibuat dengan saffron, daging, seafood, dan sayuran.",
+    "price": 160000,
+    "imgUrl": "https://example.com/paella.jpg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Barbecue Ribs",
+    "description": "Hidangan Amerika yang terbuat dari iga babi atau sapi, dibumbui dengan rempah-rempah, dan dimasak perlahan di atas panas tidak langsung.",
+    "price": 185000,
+    "imgUrl": "https://example.com/barbecue-ribs.jpg",
+    "categoryId": 3,
+    "authorId": 1
+  },
+  {
+    "name": "Hummus",
+    "description": "Saus Timur Tengah yang terbuat dari kacang arab yang dimasak dan dihaluskan, dicampur dengan tahini, jus lemon, dan bawang putih.",
+    "price": 60000,
+    "imgUrl": "https://example.com/hummus.jpg",
+    "categoryId": 4,
+    "authorId": 1
+  },
+  {
+    "name": "Tagine",
+    "description": "Rebusan khas Afrika Utara, biasanya dimasak dalam wadah keramik berbentuk kerucut, sering dibuat dengan ayam, domba, atau sapi dengan sayuran dan rempah-rempah.",
+    "price": 130000,
+    "imgUrl": "https://example.com/tagine.jpg",
+    "categoryId": 5,
+    "authorId": 1
+  },
+  {
+    "name": "Ramen",
+    "description": "Sup mi Jepang dengan kaldu, sering dibumbui dengan kecap atau miso, disajikan dengan berbagai topping seperti daging babi, nori, dan daun bawang.",
+    "price": 104000,
+    "imgUrl": "https://example.com/ramen.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Lasagna",
+    "description": "Hidangan pasta panggang asal Italia yang terbuat dari lapisan pasta yang diselingi dengan saus daging atau sayuran, saus keju, dan keju mozzarella.",
+    "price": 145000,
+    "imgUrl": "https://example.com/lasagna.jpg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Nachos",
+    "description": "Makanan ringan khas Meksiko yang terdiri dari tortilla chips yang ditutup dengan keju atau saus keju, serta topping lain seperti kacang, daging, dan jalapeno.",
+    "price": 75000,
+    "imgUrl": "https://example.com/nachos.jpg",
+    "categoryId": 3,
+    "authorId": 1
+  },
+  {
+    "name": "Baklava",
+    "description": "Hidangan penutup khas Timur Tengah yang terbuat dari lapisan filo pastry yang diisi dengan kacang cincang dan diberi sirup atau madu.",
+    "price": 80000,
+    "imgUrl": "https://example.com/baklava.jpg",
+    "categoryId": 4,
+    "authorId": 1
+  },
+  {
+    "name": "Moussaka",
+    "description": "Hidangan tradisional Yunani yang terbuat dari terong, kentang, dan daging cincang, diselimuti saus béchamel, lalu dipanggang.",
+    "price": 155000,
+    "imgUrl": "https://example.com/moussaka.jpg",
+    "categoryId": 5,
+    "authorId": 1
+  }
+]
